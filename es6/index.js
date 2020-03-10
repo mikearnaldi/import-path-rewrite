@@ -25,7 +25,8 @@ var packages = [
     'parser-ts',
     'retry-ts',
     'hyper-ts',
-    'fp—ts-local-storage'
+    'fp—ts-local-storage',
+    '@matechs/effect'
 ];
 var regexp = new RegExp("(\\s(?:from|module)\\s['|\"](?:" + packages.join('|') + "))\\/lib\\/([\\w-\\/]+['|\"])", 'gm');
 /**
