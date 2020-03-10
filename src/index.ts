@@ -49,7 +49,17 @@ const packages = [
   '@matechs/rxjs',
   '@matechs/tracing',
   '@matechs/uuid',
-  '@matechs/zoo'
+  '@matechs/zoo',
+  '@morphic-ts/adt',
+  '@morphic-ts/algebras',
+  '@morphic-ts/batteries',
+  '@morphic-ts/common',
+  '@morphic-ts/eq-interpreters',
+  '@morphic-ts/fastcheck-interpreters',
+  '@morphic-ts/io-ts-interpreters',
+  '@morphic-ts/json-schema-interpreters',
+  '@morphic-ts/ord-interpreters',
+  '@morphic-ts/show-interpreters'
 ]
 
 const regexp = new RegExp(`(\\s(?:from|module)\\s['|"](?:${packages.join('|')}))\\/lib\\/([\\w-\\/]+['|"])`, 'gm')
