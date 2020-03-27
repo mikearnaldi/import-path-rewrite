@@ -47,6 +47,7 @@ var packages = [
     '@matechs/tracing',
     '@matechs/uuid',
     '@matechs/zoo',
+    '@matechs/test',
     '@morphic-ts/adt',
     '@morphic-ts/algebras',
     '@morphic-ts/batteries',
