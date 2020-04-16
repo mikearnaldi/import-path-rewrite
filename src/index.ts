@@ -30,6 +30,7 @@ const packages = [
   'hyper-ts',
   'fp—ts-local-storage',
   '@matechs/effect',
+  '@matechs/prelude',
   '@matechs/apollo',
   '@matechs/console',
   '@matechs/cqrs',
