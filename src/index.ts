@@ -45,6 +45,7 @@ const packages = [
   '@matechs/http-client-libcurl',
   '@matechs/logger',
   '@matechs/logger-winston',
+  '@matechs/logger-pino',
   '@matechs/orm',
   '@matechs/rpc',
   '@matechs/rpc-client',
