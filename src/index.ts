@@ -31,6 +31,7 @@ const packages = [
   'fp—ts-local-storage',
   '@matechs/effect',
   '@matechs/prelude',
+  '@matechs/aio',
   '@matechs/apollo',
   '@matechs/console',
   '@matechs/cqrs',
